@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@300&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    color: #2f4f4f;
+}
+
+h1 , h2 {
+    font-family: Nunito, sans-serif;
+    letter-spacing: 1px;
+    color: #4f4f4f;
+
+}
+
+#logo {
+    text-align: center;
+    font-size: 270%;
+    text-decoration: none;
+
+    line-height: 80px;
+}
