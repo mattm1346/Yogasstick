@@ -1,52 +1,45 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+YOGASSTICK, Yoga for Beginners
 
-Welcome mattm1346,
+One or two paragraphs providing an overview of your project.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+*User Experience*
 
-## Gitpod Reminders
+-Target audience
+-What does audience want to achieve?
+-Why is Yogasstick the best way to achieve goal?
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Include list of User Stories:
+-As a user type, I want to perform an action, so that I can achieve a goal.
 
-`python3 -m http.server`
+Include link as separate file for:
+-wireframes
+-diagrams
+-mockups
 
-A blue button should appear to click: _Make Public_,
+*Features*
 
-Another blue button should appear to click: _Open Browser_.
+-Brief explanation of different sections
+-Discuss any plans for some features wanted to add in the future
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+*Technology Used*
 
-A blue button should appear to click: _Make Public_,
+-Reference to outside sources used (language, frameworks, libraries)
+-Include short explanation why each tool was used
 
-Another blue button should appear to click: _Open Browser_.
+*Testing*
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+-Any bugs?
+-Convince assessor that website has been tested thoroughly
+-Go into user stories, making sure end goal is achieved easily
 
-To log into the Heroku toolbelt CLI you can use:
+-How does product look/change with different screen sizes?
 
-`heroku login -i`
+*Deployment*
 
-If you have Multi-Factor Authentication (MFA) enabled then use the API key that was generated for you at [Heroku](https://dashboard.heroku.com/account) as your password.
-This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+-Process went through to deploy webpage to GitHub
 
-## Updates Since The Instructional Video
+*Credits*
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+-Content
+-Media
+-Acknowledgments
