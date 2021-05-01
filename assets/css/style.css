@@ -14,7 +14,8 @@ body {
 
 h1 , h2 {
     font-family: Nunito, sans-serif;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
     color: #4f4f4f;
 
 }
@@ -22,7 +23,5 @@ h1 , h2 {
 #logo {
     text-align: center;
     font-size: 270%;
-    text-decoration: none;
-
-    line-height: 80px;
+    
 }
