@@ -76,8 +76,9 @@ h1 , h2 {
 }
 
 #hero-image {
-    height: 700px;
+    height: 600px;
     width: 100%;
+    margin-top: 20px;
 
     background: url(../images/Woman\ with\ nature.jpg) no-repeat left center;
     clear: both;
