@@ -153,3 +153,21 @@ h1 , h2 {
     font-style: italic;
     border-bottom: 1px solid #2f4f4f;
 }
+
+/* contact map */
+
+#map-wrapper {
+    height: 300px;
+    width: 800px;
+    margin: 0 auto;
+    border: 5px solid #4f4f4f;
+    border-radius: 5px;
+    
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    
+}
