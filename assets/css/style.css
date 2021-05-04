@@ -11,6 +11,7 @@ body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
     color: #2f4f4f;
+    
 }
 
 h1 , h2 {
@@ -112,7 +113,7 @@ h1 , h2 {
     height: 300px;
     width: 40%;
 
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 #intro-top {
@@ -121,6 +122,7 @@ h1 , h2 {
     padding: 20px;
     border: 2px solid #4f4f4f;
     border-radius: 5px;
+    background-color: #fafafa;
 }
 
 #intro-bottom {
@@ -129,5 +131,17 @@ h1 , h2 {
     padding: 20px;
     border: 2px solid #4f4f4f;
     border-radius: 5px;
+    background-color: #fafafa;
 }
 
+#intro-image {
+    
+}
+
+#intro-image > img {
+    border-radius: 5px;
+    height: 300px;
+    width: 500px;
+    float: right;
+    margin: 50px;
+}
