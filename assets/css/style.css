@@ -37,18 +37,16 @@ h1 , h2 {
 #menu {
     letter-spacing: 2px;
     font-size: 120%;
-    
+    height: 150px;
+    text-align: center;   
+    padding-top: 2%;
 }
 
 #menu li {
-    float: left;
-    margin-right: 15%;
-    margin-top: 20px;
-    margin-left: 20px;
-    
-    text-align: center;
+    margin: 1%;
+    padding: 5%;
     list-style-type: none;
-    
+    display: inline;
 }
 
 #menu a {
@@ -84,7 +82,6 @@ h1 , h2 {
     clear: both;
 
 }
-
 
 #cover-text {
     color: #fafafa;
@@ -133,3 +130,4 @@ h1 , h2 {
     border: 2px solid #4f4f4f;
     border-radius: 5px;
 }
+
