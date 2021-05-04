@@ -117,25 +117,22 @@ h1 , h2 {
 }
 
 #intro-top {
-    margin-left: 100px;
+    margin-left: 50px;
     margin-bottom: 10px;
     padding: 20px;
     border: 2px solid #4f4f4f;
     border-radius: 5px;
     background-color: #fafafa;
+    
 }
 
 #intro-bottom {
-    margin-left: 100px;
+    margin-left: 50px;
     margin-bottom: 10px;
     padding: 20px;
     border: 2px solid #4f4f4f;
     border-radius: 5px;
     background-color: #fafafa;
-}
-
-#intro-image {
-    
 }
 
 #intro-image > img {
@@ -144,4 +141,15 @@ h1 , h2 {
     width: 500px;
     float: right;
     margin: 50px;
+    
+}
+
+#techniques {
+    font-style: italic;
+    border-bottom: 1px solid #4f4f4f;
+}
+
+#tips {
+    font-style: italic;
+    border-bottom: 1px solid #4f4f4f;
 }
