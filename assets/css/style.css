@@ -10,7 +10,7 @@
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
-    color: #2f4f4f;
+    color: #4f4f4f;
     
 }
 
@@ -18,7 +18,7 @@ h1 , h2 {
     font-family: Nunito, sans-serif;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #4f4f4f;
+    color: #2f4f4f;
     
 }
 
@@ -54,15 +54,15 @@ h1 , h2 {
 #menu a {
     text-decoration: none;
     font-weight: bold;
-    color: #4f4f4f;
+    color: #2f4f4f;
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #4f4f4f;
+    border-bottom: 2px solid #2f4f4f;
 }
 
 .active {
-    border-bottom: 2px solid #4f4f4f;
+    border-bottom: 2px solid #2f4f4f;
 }
 
 /* Hero image */
@@ -98,7 +98,7 @@ h1 , h2 {
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgb(79, 79, 79, .6);
+    background-color: rgb(47, 79, 79, .6);
     border-radius: 5px;
 
     bottom: 30px;
@@ -123,7 +123,7 @@ h1 , h2 {
     margin-left: 50px;
     margin-bottom: 10px;
     padding: 20px;
-    border: 2px solid #4f4f4f;
+    border: 2px solid #2f4f4f;
     border-radius: 5px;
     background-color: #fafafa;
     
@@ -133,7 +133,7 @@ h1 , h2 {
     margin-left: 50px;
     margin-bottom: 10px;
     padding: 20px;
-    border: 2px solid #4f4f4f;
+    border: 2px solid #2f4f4f;
     border-radius: 5px;
     background-color: #fafafa;
 }
@@ -163,7 +163,7 @@ h1 , h2 {
     height: 300px;
     width: 800px;
     margin: 0 auto;
-    border: 5px solid #4f4f4f;
+    border: 5px solid #2f4f4f;
     border-radius: 5px;
     
 }
@@ -177,6 +177,7 @@ h1 , h2 {
 
 footer {
     height: 150px;
+
 }
 
 .social-networks {
@@ -192,5 +193,6 @@ footer {
     font-size: 180%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #2f4f4f;
 }
+
