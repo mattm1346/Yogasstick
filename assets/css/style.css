@@ -266,3 +266,32 @@ th, td {
     color: #2f4f4f;
     border: 2px solid #2f4f4f;
 }
+
+/* techniques */
+
+#technique-images {
+    height: 200px;
+    width: 150px;
+    float: left;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#technique-images-wide {
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.techniques {
+    border: 2px solid #4f4f4f;
+    border-radius: 5px;
+    margin: 5%;
+    padding: 20px;
+}
+
+.techniques > p {
+    width: 100%;
+}
