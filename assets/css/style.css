@@ -218,3 +218,49 @@ footer {
 
 /* form */
 
+/* timesheet */
+
+#timesheet-outer {
+    padding: 5%;
+}
+
+#timesheet {
+    font-family: Montserrat, sans-serif;
+    padding: 2%;
+    
+    
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid #4f4f4f;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.times {
+    padding: 5px;
+}
+
+#timesheet-outer > div {
+    text-align: center;
+    
+}
+
+#book{
+    background-color: #2f4f4f;
+    color: #fafafa;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#book:hover {
+    background-color: #fafafa;
+    color: #2f4f4f;
+    border: 2px solid #2f4f4f;
+}
