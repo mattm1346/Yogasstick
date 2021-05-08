@@ -43,16 +43,16 @@
             <h2 id="book-header">book your slot now!</h2>
 
             <label for="fname">First Name</label>
-            <input id="fname" name="first_name" type="text" required>
-
+            <input name="first_name" type="text" required class="input-text">
+            
             <label for="lname">Last Name</label>
-            <input id="lname" name="last_name" type="text" required>
-
+            <input name="last_name" type="text" required class="input-text">
+            <br>
             <label for="email">Email Address</label>
-            <input id="email" name="email" type="email" required>
-
+            <input name="email" type="email" required class="input-text">
+            <br>
             <label for="day">Day</label>
-            <input id="day" name="day" type="text" list="days" required>
+            <input name="day" type="text" list="days" required id="input-text">
             <datalist id="days">
                 <option value="Monday"></option>
                 <option value="Tuesday"></option>
@@ -64,7 +64,7 @@
             </datalist>
 
             <label for="time">Time</label>
-            <input id="time" name="time" type="text" list="times" required>
+            <input name="time" type="text" list="times" required id="input-text">
             <datalist id="times">
                 <option value="09:00 - 10:00"></option>
                 <option value="10:00 - 11:00"></option>
@@ -78,6 +78,8 @@
                 <option value="18:00 - 19:00"></option>
                 <option value="19:00 - 20:00"></option>
             </datalist>
+            <br>
+            <input type="submit" value="Book Now!" id="book-button">
 
         </form>
 

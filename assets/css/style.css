@@ -219,6 +219,66 @@ footer {
 
 /* form */
 
+.form-section {
+    width: 600px;
+    height: 450px;
+    color: #2f4f4f;
+    margin: 50px;
+    border: 2px solid #2f4f4f;
+    border-radius: 5px;
+}
+
+form {
+    padding: 20px;
+}
+
+form > h2 {
+    padding-bottom: 10px;
+}
+
+.input-text {
+    width: 100%;
+    height: 25px;
+    color: #2f4f4f;
+    border: 1px solid #2f4f4f;
+    border-radius: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#input-text {
+    width: 30%;
+    height: 25px;
+    color: #2f4f4f;
+    border: 1px solid #2f4f4f;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+
+.input-text:hover {
+
+}
+
+#book-button {
+    margin-top: 20px;
+    padding: 20px 30px;
+    background-color: #2f4f4f;
+    color: #fafafa;
+    border: 2px solid #2f4f4f;
+    border-radius: 2px;
+    font-family: Nunito, sans-serif;
+    font-size: 100%;
+
+}
+
+#book-button:hover {
+    background-color: #fafafa;
+    color: #2f4f4f;
+    border: 2px solid #2f4f4f;
+    border-radius: 2px;
+
+}
+
 /* timesheet */
 
 #timesheet-outer {
