@@ -129,6 +129,8 @@ header {
 
     margin-top: 50px;
     padding-bottom: 50px;
+
+    color: #49599a;
 }
 
 #intro-top {
@@ -171,9 +173,13 @@ header {
 
 /* contact map */
 
+#map-outer {
+    padding: 7%;
+}
+
 #map-wrapper {
-    height: 300px;
-    width: 800px;
+    height: 400px;
+    width: 100%;
     margin: 0 auto;
     border: 2px solid #81c784;
     border-radius: 5px;
@@ -312,6 +318,7 @@ table {
     text-align: center;
     margin: 0 auto;
     color: #49599a;
+    width: 100%;
 }
 
 th, td {
