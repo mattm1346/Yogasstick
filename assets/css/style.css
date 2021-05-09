@@ -11,6 +11,7 @@ body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
     color: #4f4f4f;
+    background-color: #7986cb;
         
 }
 
@@ -18,8 +19,12 @@ h1 , h2 {
     font-family: Nunito, sans-serif;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #2f4f4f;
+    color: #fafafa;
     
+}
+
+header {
+    background-color: #49599a;
 }
 
 #logo {
@@ -54,15 +59,15 @@ h1 , h2 {
 #menu a {
     text-decoration: none;
     font-weight: bold;
-    color: #2f4f4f;
+    color: #fafafa;
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #2f4f4f;
+    border-bottom: 2px solid #81c784;
 }
 
 .active {
-    border-bottom: 2px solid #2f4f4f;
+    border-bottom: 2px solid #81c784;
 }
 
 /* Hero image */
@@ -79,7 +84,8 @@ h1 , h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    margin-top: 20px;
+    
+    padding: 10px;
 
     background: url(../images/Woman\ with\ nature.jpg) no-repeat left center;
     clear: both;
@@ -97,7 +103,7 @@ h1 , h2 {
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgb(47, 79, 79, .6);
+    background-color: rgb(73, 89, 154, .6);
     border-radius: 5px;
 
     bottom: 30px;
@@ -129,7 +135,7 @@ h1 , h2 {
     margin-left: 50px;
     margin-bottom: 10px;
     padding: 20px;
-    border: 2px solid #2f4f4f;
+    border: 2px solid #81c784;
     border-radius: 5px;
     background-color: #fafafa;
     
@@ -139,7 +145,7 @@ h1 , h2 {
     margin-left: 50px;
     margin-bottom: 10px;
     padding: 20px;
-    border: 2px solid #2f4f4f;
+    border: 2px solid #81c784;
     border-radius: 5px;
     background-color: #fafafa;
 }
@@ -155,12 +161,12 @@ h1 , h2 {
 
 #techniques {
     font-style: italic;
-    border-bottom: 1px solid #2f4f4f;
+    border-bottom: 1px solid #81c784;
 }
 
 #tips {
     font-style: italic;
-    border-bottom: 1px solid #2f4f4f;
+    border-bottom: 1px solid #81c784;
 }
 
 /* contact map */
@@ -169,7 +175,7 @@ h1 , h2 {
     height: 300px;
     width: 800px;
     margin: 0 auto;
-    border: 5px solid #2f4f4f;
+    border: 2px solid #81c784;
     border-radius: 5px;
     
 }
@@ -178,19 +184,18 @@ h1 , h2 {
     width: 100%;
     height: 100%;
     border-radius: 5px;
-    
 }
 
 /* footer */
 
 footer {
-    height: 5%px;
+    height: 5%;
+    
 
 }
 
 .footer-background {
     width: 100%;
-    height: 5%;
 }
 
 .social-networks {
@@ -206,7 +211,7 @@ footer {
     font-size: 180%;
     margin: 1%;
     padding: 5%;
-    color: #2f4f4f;
+    color: #fafafa;
 }
 
 #address {
@@ -214,6 +219,7 @@ footer {
     width: 400px;
     padding: 1%;
     margin: 0 auto;
+    color: #fafafa;
 
 }
 
@@ -228,9 +234,9 @@ footer {
 .form-section {
     width: 600px;
     height: 450px;
-    color: #2f4f4f;
+    color: #81c784;
     margin: 50px;
-    border: 2px solid #2f4f4f;
+    border: 2px solid #49599a;
     border-radius: 5px;
 }
 
@@ -245,9 +251,9 @@ form > h2 {
 .input-text {
     width: 100%;
     height: 25px;
-    color: #2f4f4f;
-    border: 1px solid #2f4f4f;
-    border-radius: 2px;
+    color: #49599a;
+    border: 1px solid #49599a;
+    border-radius: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -255,32 +261,36 @@ form > h2 {
 #input-text {
     width: 30%;
     height: 25px;
-    color: #2f4f4f;
-    border: 1px solid #2f4f4f;
+    color: #49599a;
+    border: 1px solid #49599a;
     border-radius: 2px;
     margin-top: 10px;
 }
 
 .input-text:hover {
+    border-color: #81c784;
+}
 
+#input-text:hover {
+    border-color: #81c784;
 }
 
 #book-button {
     margin-top: 20px;
     padding: 20px 30px;
-    background-color: #2f4f4f;
+    background-color: #49599a;
     color: #fafafa;
-    border: 2px solid #2f4f4f;
+    border: 2px solid #49599a;
     border-radius: 2px;
-    font-family: Nunito, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 100%;
 
 }
 
 #book-button:hover {
     background-color: #fafafa;
-    color: #2f4f4f;
-    border: 2px solid #2f4f4f;
+    color: #49599a;
+    border: 2px solid #81c784;
     border-radius: 2px;
 
 }
@@ -301,12 +311,15 @@ form > h2 {
 table {
     text-align: center;
     margin: 0 auto;
+    color: #49599a;
 }
 
 th, td {
-    border: 1px solid #4f4f4f;
-    padding: 5px;
+    border: 1px solid #81c784;
+    padding: 10px;
+    margin: 10px;
     border-radius: 5px;
+    background-color: #fafafa;
 }
 
 .times {
@@ -319,7 +332,7 @@ th, td {
 }
 
 #book{
-    background-color: #2f4f4f;
+    background-color: #49599a;
     color: #fafafa;
     border-radius: 5px;
     text-decoration: none;
@@ -328,8 +341,8 @@ th, td {
 
 #book:hover {
     background-color: #fafafa;
-    color: #2f4f4f;
-    border: 2px solid #2f4f4f;
+    color: #49599a;
+    border: 2px solid #81c784;
 }
 
 /* techniques */
@@ -351,13 +364,16 @@ th, td {
 }
 
 .techniques {
-    border: 2px solid #4f4f4f;
+    border: 2px solid #81c784;
     border-radius: 5px;
     margin: 0 auto 50px;
     padding: 20px;
     width: 1000px;
+    background-color: #fafafa;
+    color: #49599a;
 }
 
-.poses-text {
-    
+.techniques > h2 {
+    color: #49599a;
+    padding-bottom: 10px;
 }
