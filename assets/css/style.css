@@ -213,6 +213,10 @@ footer {
     color: #fafafa;
 }
 
+.social-networks i:hover {
+    color: #81c784;
+}
+
 #address {
     text-align: center;
     width: 400px;
@@ -305,7 +309,31 @@ form > h2 {
     height: 450px;
     float: left;
     border-radius: 5px;
-    margin: 50px 0px 20px 370px;
+    margin: 50px 50px 20px 50px;
+}
+
+.safety-icons {
+    font-size: medium;
+    color: #fafafa;
+    text-align: center;
+}
+
+.safety-icons i {
+    font-size: 180%;
+    margin: 1%;
+    padding: 5%;
+}
+
+#hands:hover {
+    color: #81c784;
+}
+
+#face:hover {
+    color: #81c784;
+}
+
+#space:hover {
+    color: #81c784;
 }
 
 /* timesheet */
@@ -317,8 +345,7 @@ form > h2 {
 #timesheet {
     font-family: Montserrat, sans-serif;
     padding: 2%;
-    
-    
+
 }
 
 table {
@@ -391,3 +418,4 @@ th, td {
     color: #49599a;
     padding-bottom: 10px;
 }
+
