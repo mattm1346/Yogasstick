@@ -84,9 +84,7 @@ header {
 #hero-image {
     height: 600px;
     width: 100%;
-    
     padding: 10px;
-
     background: url(../images/Woman\ with\ nature.jpg) no-repeat left center;
     clear: both;
 }
@@ -116,20 +114,16 @@ header {
 
 #intro-background {
     width: 1000px;
-    height: 500px;
     margin: 0 auto;
     padding: 5%;
 }
 
 #introduction {
     float: left;
-
     height: 300px;
     width: 40%;
-
     margin-top: 50px;
     padding-bottom: 50px;
-
     color: #49599a;
 }
 
@@ -197,7 +191,6 @@ header {
 footer {
     height: 5%;
     
-
 }
 
 .footer-background {
@@ -237,13 +230,19 @@ footer {
 
 /* form */
 
+#form-outer {
+    width: 100%;
+    height: 600px;
+}
+
 .form-section {
-    width: 600px;
+    width: 500px;
     height: 450px;
     color: #81c784;
-    margin: 50px;
+    margin: 50px 10px 20px 50px;
     border: 2px solid #49599a;
     border-radius: 5px;
+    float: left;
 }
 
 form {
@@ -299,6 +298,14 @@ form > h2 {
     border: 2px solid #81c784;
     border-radius: 2px;
 
+}
+
+#social-yoga {
+    width: 300px;
+    height: 450px;
+    float: left;
+    border-radius: 5px;
+    margin: 50px 0px 20px 370px;
 }
 
 /* timesheet */
