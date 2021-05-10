@@ -25,6 +25,7 @@ h1 , h2 {
 
 header {
     background-color: #49599a;
+    width: 100%;
 }
 
 #logo {
@@ -97,23 +98,20 @@ header {
     width: 300px;
     height: 150px;
     text-align: center;
-
     padding-top: 40px;
     padding-left: 10px;
-
     background-color: rgb(73, 89, 154, .6);
     border-radius: 5px;
-
     bottom: 30px;
     right: 150px;
-
     position: absolute;
 }
 
 /* Introduction */
 
 #intro-background {
-    width: 1000px;
+    width: 100%;
+    height: 400px;
     margin: 0 auto;
     padding: 5%;
 }
@@ -318,6 +316,10 @@ form > h2 {
     text-align: center;
 }
 
+.safety-icons li {
+    list-style-type: none;
+}
+
 .safety-icons i {
     font-size: 180%;
     margin: 1%;
@@ -417,5 +419,62 @@ th, td {
 .techniques > h2 {
     color: #49599a;
     padding-bottom: 10px;
+}
+
+/* For larger to medium screen size from 1200px wide and down */
+
+@media screen and (max-width:1200px) {
+    
+    #logo {
+        text-align: center;
+    }
+
+    #title {
+        text-align: center;
+    }
+
+    #menu {
+        text-align: center;
+        background-color: #49599a;
+    }
+
+    #menu li {
+        padding: 50px;
+        margin: 1%;
+    }
+
+    #hero-outer {
+        height: 400px;
+        width: 100%;
+        margin: 0 auto;
+        border-radius: 5px;
+        position: relative;
+    }
+
+    #cover-text {
+        float: left;
+    }
+    
+    #intro-background {
+        width: 100%;
+    }
+
+    #introduction {
+        padding-bottom: 5%;
+    }
+
+    #intro-image > img {
+        height: 200px;
+        width: 350px;
+        margin-right: 15%;    
+    }
+
+    .social-networks i {
+        font-size: 180%;
+        margin: 1%;
+        padding: 3%;
+        color: #fafafa;
+    }
+
 }
 
