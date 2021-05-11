@@ -414,9 +414,13 @@ th, td {
     border-radius: 5px;
     margin: 0 auto 50px;
     padding: 20px;
-    width: 1000px;
+    width: 70%;
     background-color: #fafafa;
     color: #49599a;
+}
+
+#techniques-header {
+    margin: 50px 0 20px 15%;
 }
 
 .techniques > h2 {
@@ -483,10 +487,6 @@ th, td {
 }
 
 @media screen and (max-width: 950px) {
-
-    .techniques {
-        width: 90%;
-    }
 
     .techniques > p {
         width: 90%;
