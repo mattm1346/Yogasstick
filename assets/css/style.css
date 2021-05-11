@@ -203,9 +203,9 @@ footer {
 }
 
 .social-networks i {
-    font-size: 180%;
+    font-size: 140%;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
     color: #fafafa;
 }
 
@@ -404,6 +404,11 @@ th, td {
     border-radius: 5px;
 }
 
+#technique-outer {
+    width: 100%;
+    margin: 5%;
+}
+
 .techniques {
     border: 2px solid #81c784;
     border-radius: 5px;
@@ -504,6 +509,10 @@ th, td {
         padding: 3%;
     }
 
+    #address {
+        width: 300px;
+    }
+
 
 }
 
@@ -523,6 +532,14 @@ th, td {
 
     #menu li {
         padding: 1%;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    #technique-images-wide {
+        height: 8em;
+        width: 10em;
     }
 
 }
