@@ -184,13 +184,8 @@ header {
 
 /* footer */
 
-footer {
-    height: 5%;
-    
-}
-
 .footer-background {
-    width: 100%;
+    background-color: #49599a;
 }
 
 .social-networks {
@@ -203,9 +198,7 @@ footer {
 }
 
 .social-networks i {
-    font-size: 140%;
-    margin: 1%;
-    padding: 2%;
+    font-size: 180%;
     color: #fafafa;
 }
 
@@ -216,18 +209,10 @@ footer {
 #address {
     text-align: center;
     width: 400px;
-    padding: 1%;
     margin: 0 auto;
     color: #fafafa;
 
 }
-
-.background {
-    width: 100%;
-    height: 500px;
-    padding: 2%;
-}
-
 /* form */
 
 #form-outer {
