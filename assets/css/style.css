@@ -10,7 +10,7 @@
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
-    color: #4f4f4f;
+    color: #fafafa;
     background-color: #7986cb;
         
 }
@@ -426,6 +426,25 @@ th, td {
 .techniques > h2 {
     color: #49599a;
     padding-bottom: 10px;
+}
+
+#audio {
+    height: 10%;
+    width: 100%;
+}
+
+#music {
+    text-align: center;
+    padding: 0 50px 20px 50px;
+    margin: 3%;
+}
+
+.music {
+    padding: 2%;
+}
+
+.music > p {
+    padding: 10px;
 }
 
 /* For larger to medium screen size from 1200px wide and down */
