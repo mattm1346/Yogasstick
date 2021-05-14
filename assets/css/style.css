@@ -431,6 +431,11 @@ th, td {
     padding: 10px;
 }
 
+#music-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
 /* For larger to medium screen size from 1200px wide and down */
 
 @media screen and (max-width:1200px) {
