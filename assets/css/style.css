@@ -11,7 +11,7 @@ body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
     color: #fafafa;
-    background-color: #7986cb;
+    background-color: #aab6fe;
         
 }
 
@@ -20,12 +20,19 @@ h1 , h2 {
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #fafafa;
+    font-weight: bold;
     
+}
+
+p {
+    color: #49599a;
+    padding-bottom: 3px;
 }
 
 header {
     background-color: #49599a;
     width: 100%;
+
 }
 
 #logo {
@@ -36,6 +43,7 @@ header {
 
 #title {
     text-align: center;
+    font-size: 160%;
 
 }
 
@@ -43,7 +51,7 @@ header {
 
 #menu {
     letter-spacing: 2px;
-    font-size: 120%;
+    font-size: 160%;
     height: 50px;
     text-align: center;   
     padding-top: 2%;
@@ -200,6 +208,7 @@ header {
 .social-networks i {
     font-size: 180%;
     color: #fafafa;
+    padding: 20px;
 }
 
 .social-networks i:hover {
@@ -223,7 +232,7 @@ header {
 .form-section {
     width: 500px;
     height: 450px;
-    color: #81c784;
+    color: #49599a;
     margin: 50px 10px 20px 50px;
     border: 2px solid #49599a;
     border-radius: 5px;
@@ -389,9 +398,21 @@ th, td {
     border-radius: 5px;
 }
 
+#technique-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #technique-outer {
     width: 100%;
-    margin: 5%;
+    padding: 40px;
+}
+
+#poses-title {
+    color: #49599a;
+    border-bottom: 1px solid #49599a;
+    margin-bottom: 10px;
 }
 
 .techniques {
@@ -406,6 +427,7 @@ th, td {
 
 #techniques-header {
     margin: 50px 0 20px 15%;
+    color: #49599a;
 }
 
 .techniques > h2 {
@@ -424,7 +446,7 @@ th, td {
 }
 
 .music {
-    padding: 2px;
+    padding: 10px;
 }
 
 .music > p {
