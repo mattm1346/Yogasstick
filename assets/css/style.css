@@ -234,9 +234,10 @@ header {
     height: 450px;
     color: #49599a;
     margin: 50px 10px 20px 50px;
-    border: 2px solid #49599a;
+    border: 2px solid #81c784;
     border-radius: 5px;
     float: left;
+    background-color: #fafafa;
 }
 
 form {
@@ -255,6 +256,7 @@ form > h2 {
     border-radius: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding: 4px;
 }
 
 #input-text {
@@ -264,6 +266,7 @@ form > h2 {
     border: 1px solid #49599a;
     border-radius: 2px;
     margin-top: 10px;
+    padding: 4px;
 }
 
 .input-text:hover {
@@ -277,20 +280,22 @@ form > h2 {
 #book-button {
     margin-top: 20px;
     padding: 20px 30px;
-    background-color: #49599a;
-    color: #fafafa;
-    border: 2px solid #49599a;
+    background-color: #81c784;
+    color: #49599a;
+    border: 2px solid #81c784;
     border-radius: 2px;
     font-family: Montserrat, sans-serif;
-    font-size: 100%;
+    font-size: 140%;
+    width: 100%;
 
 }
 
 #book-button:hover {
-    background-color: #fafafa;
+    background-color: #95E699;
     color: #49599a;
     border: 2px solid #81c784;
     border-radius: 2px;
+    cursor: pointer;
 
 }
 
@@ -338,13 +343,13 @@ form > h2 {
 
 #timesheet {
     font-family: Montserrat, sans-serif;
-    padding: 2%;
+    padding: 4px;
 
 }
 
 table {
     text-align: center;
-    margin: 0 auto;
+    margin: 0 auto 25px;
     color: #49599a;
     width: 100%;
 }
@@ -367,15 +372,17 @@ th, td {
 }
 
 #book{
-    background-color: #49599a;
-    color: #fafafa;
+    background-color: #81c784;
+    color: #49599a;
     border-radius: 5px;
     text-decoration: none;
-    padding: 5px;
+    padding: 20px;
+    border: 2px solid #81c784;
+    margin: 10px;
 }
 
 #book:hover {
-    background-color: #fafafa;
+    background-color: #95E699;
     color: #49599a;
     border: 2px solid #81c784;
 }
