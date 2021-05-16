@@ -311,28 +311,29 @@ form > h2 {
     font-size: medium;
     color: #fafafa;
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .safety-icons li {
     list-style-type: none;
+    background-color: #fafafa;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    color: #49599a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid #81c784;
+    border-radius: 5px;
 }
 
 .safety-icons i {
     font-size: 180%;
     margin: 1%;
     padding: 2%;
-}
-
-#hands:hover {
-    color: #81c784;
-}
-
-#face:hover {
-    color: #81c784;
-}
-
-#space:hover {
-    color: #81c784;
 }
 
 /* timesheet */
