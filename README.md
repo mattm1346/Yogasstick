@@ -16,8 +16,18 @@ Beginners to yoga will want to learn the techniques to yoga which Yogasstick has
 
 All users will want to practice yoga in a safe environment. Yogasstick therefore offers the opportunity to practice yoga in their home via the techniques page. Should users wish to book a class, there is a capacity limit which is displayed on the bookings page. This is to ensure the safety of all members by allowing everyone to social distance while the covid-19 pandemic continues.
 
-Include list of User Stories:
--As a user type, I want to perform an action, so that I can achieve a goal.
+*User Stories*
+
+As a novice to computers, I want the easiest way to get around the website so I am not wasting my time and getting lost.
+End user goal: Navigate around the website. End business goal: Keep users using website and not leaving in frustration. Acceptance criteria: Create Navigation bar with links to all pages and highlight to inform what page user is on.
+
+As a beginner to yoga, I don't feel confident practicing in a class with other people. So I want the ability to learn yoga at home alone and not feel embarrassed.
+End user goal: Learn yoga from home. End business goal: Start users using website and booking classes. Acceptance criteria: Create 'Techniques' page with list of basic poses but not all so user will book classes to learn more.
+
+As user who is terrible with directions, I want the ability to find where the studio is so I can get to the class on time. 
+End user goal: Locate the studio. End business goal: Get users in the studio. Acceptance criteria: Embed map from 'Google Maps' with clear label telling user what map is off. Also add address to footer of the page so user can find address easily.
+
+As a parent I have limited free time, so when I go to the class I want to do yoga and not be turned away due to capacity. I want the ability to book classes. End user goal: Book classes. End business goal: Get users to book classes. Acceptance criteria: Create form on 'details' page with ability to book classes by name to reserve place.
 
 Include link as separate file for:
 -wireframes
