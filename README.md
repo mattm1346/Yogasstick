@@ -33,7 +33,13 @@ As a parent I have limited free time, so when I go to the class I want to do yog
 
 Using the software, 'Balsamiq Wireframes' I created a very basic structure to how I initially wanted Yogasstick to look.
 
-[index] (https://github.com/mattm1346/Project_1/assets/screenshots/wireframe-index.jpg.png)
+[index] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png
+
+[techniques] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20techniques.jpg.png
+
+[tips] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20tips.jpg.png
+
+[contact] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png
 
 
 *Features*
