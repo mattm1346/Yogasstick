@@ -29,10 +29,12 @@ End user goal: Locate the studio. End business goal: Get users in the studio. Ac
 
 As a parent I have limited free time, so when I go to the class I want to do yoga and not be turned away due to capacity. I want the ability to book classes. End user goal: Book classes. End business goal: Get users to book classes. Acceptance criteria: Create form on 'details' page with ability to book classes by name to reserve place.
 
-Include link as separate file for:
--wireframes
--diagrams
--mockups
+*Wireframes*
+
+Using the software, 'Balsamiq Wireframes' I created a very basic structure to how I initially wanted Yogasstick to look.
+
+[index] (https://github.com/mattm1346/Project_1/assets/screenshots/wireframe-index.jpg.png)
+
 
 *Features*
 
