@@ -69,7 +69,7 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 **June 17 2021** The 'techniques.html' page was unsuccessful and resulted in no errors.
 
-![Techniques W3C FIXED] 
+![Techniques W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_techniques_FIXED.jpg.png
 
 -Convince assessor that website has been tested thoroughly
 -Go into user stories, making sure end goal is achieved easily
