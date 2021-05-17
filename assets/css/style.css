@@ -390,7 +390,7 @@ th, td {
 
 /* techniques */
 
-#technique-images {
+.technique-images {
     height: 200px;
     width: 150px;
     float: left;
@@ -398,7 +398,7 @@ th, td {
     border-radius: 5px;
 }
 
-#technique-images-wide {
+.technique-images-wide {
     height: 200px;
     width: 300px;
     float: left;
@@ -406,7 +406,7 @@ th, td {
     border-radius: 5px;
 }
 
-#technique-wrapper {
+.technique-wrapper {
     display: flex;
     align-items: center;
     justify-content: center;
