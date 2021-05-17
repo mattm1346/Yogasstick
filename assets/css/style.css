@@ -259,7 +259,7 @@ form > h2 {
     padding: 4px;
 }
 
-#input-text {
+.dropdown {
     width: 30%;
     height: 25px;
     color: #49599a;
@@ -273,7 +273,7 @@ form > h2 {
     border-color: #81c784;
 }
 
-#input-text:hover {
+.dropdown:hover {
     border-color: #81c784;
 }
 
