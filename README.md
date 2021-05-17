@@ -33,15 +33,15 @@ As a parent I have limited free time, so when I go to the class I want to do yog
 
 Using the software, 'Balsamiq Wireframes' I created a very basic structure to how I initially wanted Yogasstick to look.
 
-[index] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png
+![index] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png
 
-[techniques] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20techniques.jpg.png
+![techniques] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20techniques.jpg.png
 
-[tips] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20tips.jpg.png
+![tips] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20tips.jpg.png
 
 I originally called the 'Schedule' page the 'Tips' page. With the 'Tips' page I planned to involve some helpful advice to help with yoga and wellness. But I decided to delete the 'Tips' page in favor of the 'Schedule' page and include tips in the 'Techniques' page.
 
-[contact] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png
+![contact] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png
 
 The 'Booking' page started as the 'Contact' page and included a class timesheet of the classes and the ability to book. There's also a map embeded to allow for the user to locate the studio where classes are held.
 
@@ -57,7 +57,16 @@ The 'Booking' page started as the 'Contact' page and included a class timesheet 
 
 *Testing*
 
--Any bugs?
+Using W3C validator (https://validator.w3.org/) I ran each html page through.
+
+**June 17 2021** The 'index.html' page was successful and resulted in no errors.
+
+![Index W3C] 
+
+**June 17 2021** The 'techniques.html' page was unsuccessful and resulted in 22 errors.
+
+![Techniques W3C]
+
 -Convince assessor that website has been tested thoroughly
 -Go into user stories, making sure end goal is achieved easily
 
