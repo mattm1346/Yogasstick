@@ -79,6 +79,8 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 [Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_details.jpg.png
 
+
+
 -Convince assessor that website has been tested thoroughly
 -Go into user stories, making sure end goal is achieved easily
 
