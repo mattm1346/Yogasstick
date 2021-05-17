@@ -417,7 +417,7 @@ th, td {
     padding: 40px;
 }
 
-#poses-title {
+.poses-title {
     color: #49599a;
     border-bottom: 1px solid #49599a;
     margin-bottom: 10px;
