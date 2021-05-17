@@ -61,11 +61,11 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 **June 17 2021** The 'index.html' page was successful and resulted in no errors.
 
-![Index W3C] 
+![Index W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_homepage.jpg.png
 
 **June 17 2021** The 'techniques.html' page was unsuccessful and resulted in 22 errors.
 
-![Techniques W3C]
+![Techniques W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_techniques.jpg.png
 
 -Convince assessor that website has been tested thoroughly
 -Go into user stories, making sure end goal is achieved easily
