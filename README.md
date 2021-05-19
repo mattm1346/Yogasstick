@@ -73,6 +73,12 @@ On each page, there is a navigation bar with links to each page to allow for eas
 
 ![Navigation bar](assets/screenshots/nav_bar.jpg.png)
 
+*Footer*
+
+On each page, there is a footer with icons from Font Awesome that are linked to their corresponding website (Facebook, Twitter, Instagram). There is also an address of the studio and the yogasstick email address.
+
+![Footer]()
+
 -Discuss any plans for some features wanted to add in the future
 
 -zoom class
