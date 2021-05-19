@@ -59,27 +59,27 @@ The 'Booking' page started as the 'Contact' page and included a class timesheet 
 
 Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
-**June 17 2021** The 'index.html' page was successful and resulted in no errors.
+**May 17 2021** The 'index.html' page was successful and resulted in no errors.
 
 [Index W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_homepage.jpg.png
 
-**June 17 2021** The 'techniques.html' page was unsuccessful and resulted in 22 errors.
+**May 17 2021** The 'techniques.html' page was unsuccessful and resulted in 22 errors.
 
 [Techniques W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_techniques.jpg.png
 
-**June 17 2021** The 'techniques.html' page was successful and resulted in no errors.
+**May 17 2021** The 'techniques.html' page was successful and resulted in no errors.
 
 [Techniques W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_techniques_FIXED.jpg.png
 
-**June 17 2021** The 'schedule.html' page was successful and resulted in no errors.
+**May 17 2021** The 'schedule.html' page was successful and resulted in no errors.
 
 [Schedule W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_schedule.jpg.png
 
-**June 17 2021** The 'details.html' page was unsuccessful and resulted in 7 errors.
+**May 17 2021** The 'details.html' page was unsuccessful and resulted in 7 errors.
 
 [Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_details.jpg.png
 
-**June 17 2021** The 'details.html' page was successful and resulted in 0 errors.
+**May 17 2021** The 'details.html' page was successful and resulted in 0 errors.
 
 [Details W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_details_FIXED.jpg.png
 
