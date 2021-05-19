@@ -321,6 +321,7 @@ form > h2 {
     list-style-type: none;
     background-color: #fafafa;
     margin: 10px;
+    margin-bottom: 50px;
     width: 200px;
     height: 200px;
     color: #49599a;
@@ -593,7 +594,7 @@ th, td {
 
     #menu {
         letter-spacing: 0px;
-        font-size: 120%;
+        font-size: 100%;
 
     }
 
