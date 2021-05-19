@@ -497,7 +497,7 @@ th, td {
 
     #menu li {
         padding: 50px;
-        margin: 1%;
+
     }
 
     #hero-outer {
@@ -590,12 +590,20 @@ th, td {
         right: 10px;
     }
 
-    #menu li {
-        padding: 1%;
+    #menu {
+        letter-spacing: 0px;
+        font-size: 100%;
+
     }
 
     #intro-image > img {
         margin: 50px;
+    }
+
+    #menu li {
+        padding: 5%;
+        margin: 0px;
+
     }
 
 }
@@ -612,12 +620,6 @@ th, td {
 
     #intro-image > img {
         display: none;
-    }
-
-    #menu {
-        letter-spacing: 0px;
-        font-size: 100%;
-
     }
 
     #technique-outer {
