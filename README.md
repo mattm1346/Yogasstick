@@ -61,27 +61,27 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 **May 17 2021** The 'index.html' page was successful and resulted in no errors.
 
-[Index W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_homepage.jpg.png
+[Index W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_homepage.jpg.png
 
 **May 17 2021** The 'techniques.html' page was unsuccessful and resulted in 22 errors.
 
-[Techniques W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_techniques.jpg.png
+[Techniques W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_techniques.jpg.png
 
 **May 17 2021** The 'techniques.html' page was successful and resulted in no errors.
 
-[Techniques W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_techniques_FIXED.jpg.png
+[Techniques W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_techniques_FIXED.jpg.png
 
 **May 17 2021** The 'schedule.html' page was successful and resulted in no errors.
 
-[Schedule W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_schedule.jpg.png
+[Schedule W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_schedule.jpg.png
 
 **May 17 2021** The 'details.html' page was unsuccessful and resulted in 7 errors.
 
-[Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_details.jpg.png
+[Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_details.jpg.png
 
 **May 17 2021** The 'details.html' page was successful and resulted in 0 errors.
 
-[Details W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing_details_FIXED.jpg.png
+[Details W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_details_FIXED.jpg.png
 
 **May 19 2021** Used the website (https://webformatter.com/) to correctly change the format of all html pages.
 
