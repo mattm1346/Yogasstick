@@ -1,4 +1,4 @@
-YOGASSTICK, Yoga for Beginners
+**YOGASSTICK, Yoga for Beginners**
 
 This is a yoga website designed to help beginners get started with yoga. Included are some beginner techniques for users to either get started on their own at home, or to have a basic understanding of what they will learn in the class should they decide to book.
 
@@ -87,7 +87,13 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 **May 19 2021** Ran each page through W3C validator to check that changing the format caused no errors.
 
+[Index W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_homepage(19.05.21).jpg.png
 
+[Techniques W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_techniques(19.05.21).jpg.png
+
+[Schedule W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_schedule(19.05.21).jpg.png
+
+[Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_details(19.05.21).jpg.png
 
 -Convince assessor that website has been tested thoroughly
 -Go into user stories, making sure end goal is achieved easily
