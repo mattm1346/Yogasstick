@@ -33,15 +33,15 @@ End user goal: Locate the studio. End business goal: Get users in the studio. Ac
 
 Using the software, 'Balsamiq Wireframes' I created a very basic structure to how I initially wanted Yogasstick to look.
 
-![index] (https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png)
+![index](https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png)
 
-![techniques] (https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20techniques.jpg.png)
+![techniques](https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20techniques.jpg.png)
 
-![tips] (https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20tips.jpg.png)
+![tips](https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20tips.jpg.png)
 
 I originally called the 'Schedule' page the 'Tips' page. With the 'Tips' page I planned to involve some helpful advice to help with yoga and wellness. But I decided to delete the 'Tips' page in favor of the 'Schedule' page and include tips in the 'Techniques' page.
 
-![contact] (https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png)
+![contact](https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/wireframe%20contact.jpg.png)
 
 The 'Booking' page started as the 'Contact' page and included a class timesheet of the classes and the ability to book. There's also a map embeded to allow for the user to locate the studio where classes are held.
 
@@ -69,7 +69,9 @@ Under the form, there are three icons from Font Awesome (https://fontawesome.com
 
 *Nav-bar*
 
-On each page, there is a navigation bar with links to each page to allow for easy navigation. 
+On each page, there is a navigation bar with links to each page to allow for easy navigation.
+
+![Navigation bar](assets/screenshots/nav_bar.jpg.png)
 
 -Discuss any plans for some features wanted to add in the future
 
