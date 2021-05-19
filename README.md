@@ -18,16 +18,16 @@ All users will want to practice yoga in a safe environment. Yogasstick therefore
 
 *User Stories*
 
-As a novice to computers, I want the easiest way to get around the website so I am not wasting my time and getting lost.
+1. As a novice to computers, I want the easiest way to get around the website so I am not wasting my time and getting lost.
 End user goal: Navigate around the website. End business goal: Keep users using website and not leaving in frustration. Acceptance criteria: Create Navigation bar with links to all pages and highlight to inform what page user is on.
 
-As a beginner to yoga, I don't feel confident practicing in a class with other people. So I want the ability to learn yoga at home alone and not feel embarrassed.
+2. As a beginner to yoga, I don't feel confident practicing in a class with other people. So I want the ability to learn yoga at home alone and not feel embarrassed.
 End user goal: Learn yoga from home. End business goal: Start users using website and booking classes. Acceptance criteria: Create 'Techniques' page with list of basic poses but not all so user will book classes to learn more.
 
-As user who is terrible with directions, I want the ability to find where the studio is so I can get to the class on time. 
+3. As user who is terrible with directions, I want the ability to find where the studio is so I can get to the class on time. 
 End user goal: Locate the studio. End business goal: Get users in the studio. Acceptance criteria: Embed map from 'Google Maps' with clear label telling user what map is off. Also add address to footer of the page so user can find address easily.
 
-As a parent I have limited free time, so when I go to the class I want to do yoga and not be turned away due to capacity. I want the ability to book classes. End user goal: Book classes. End business goal: Get users to book classes. Acceptance criteria: Create form on 'details' page with ability to book classes by name to reserve place.
+4. As a parent I have limited free time, so when I go to the class I want to do yoga and not be turned away due to capacity. I want the ability to book classes. End user goal: Book classes. End business goal: Get users to book classes. Acceptance criteria: Create form on 'details' page with ability to book classes by name to reserve place.
 
 *Wireframes*
 
@@ -47,8 +47,36 @@ The 'Booking' page started as the 'Contact' page and included a class timesheet 
 
 *Features*
 
--Brief explanation of different sections
+*Homepage (Index.html)*
+
+The homepage is the face of the site and first introduces the user to Yogasstick. It includes a hero image of a woman doing yoga by a lake which draws the user's eye while also encapturing what the website is about, yoga.
+
+*Techniques (Techniques.html)*
+
+The techniques page is where the main information of yoga is held. There are five beginner level techniques each in their own division, with a description of the technique and an image to accompany and further explain what the user should be doing.
+
+*Schedule (Schedule.html)*
+
+The schedule page is all about getting the user to book a class. Here we start with a full list of times that the studio will be holding classes for yoga. Under this, there is a disclaimer notifying the user that class availability is limited due to the coronavirus pandemic (although this website is completely fiction, I thought it would be a good idea to show how it can adapt to changing social times).
+
+There is also a map embeded from google maps (https://www.google.co.uk/maps/). The studio location is shown on the map which is interactive. This is to help users find the location of the studio.
+
+*Booking (Details.html)*
+
+The booking page is where the user can book their class. It has a functioning form that requires the user's; first name, last name, email address and what time and date they would like to book. 
+
+Under the form, there are three icons from Font Awesome (https://fontawesome.com/) reminding the user to stay safe. In the coronavirus pandemic, the three main rules to stay safe were to: wash hands, wear a face mask, and keep a two meter distance from others. The icons on the website include a short description to remind the user to keep themselves and each other safe.
+
+*Nav-bar*
+
+On each page, there is a navigation bar with links to each page to allow for easy navigation. 
+
 -Discuss any plans for some features wanted to add in the future
+
+-zoom class
+-form crosses out times full up
+-technique video/before after image
+-teacher bio
 
 *Technology Used*
 
@@ -95,7 +123,6 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 [Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_details(19.05.21).jpg.png
 
--Convince assessor that website has been tested thoroughly
 -Go into user stories, making sure end goal is achieved easily
 
 -How does product look/change with different screen sizes?
