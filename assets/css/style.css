@@ -562,6 +562,14 @@ th, td {
         width: 300px;
     }
 
+    #music-wrapper {
+        display: contents;
+    }
+
+    .technique-wrapper {
+        display: grid;
+    }
+
 }
 
 @media screen and (max-width:770px) {
@@ -592,7 +600,7 @@ th, td {
 
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 500px) {
     #technique-images-wide {
         height: 8em;
         width: 10em;
@@ -609,7 +617,11 @@ th, td {
     #menu {
         letter-spacing: 0px;
         font-size: 100%;
-        
+
+    }
+
+    #technique-outer {
+        padding: 0px;
     }
 
 }
