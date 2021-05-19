@@ -598,7 +598,7 @@ th, td {
     }
 
     #intro-image > img {
-        margin: 50px;
+        display: none;
     }
 
     #menu li {
@@ -617,10 +617,6 @@ th, td {
 
     #intro-background {
         padding: 10px;
-    }
-
-    #intro-image > img {
-        display: none;
     }
 
     #technique-outer {
