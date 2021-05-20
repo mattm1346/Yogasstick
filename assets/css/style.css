@@ -118,7 +118,6 @@ header {
 /* Introduction */
 
 #intro-background {
-    width: 100%;
     margin: 0 auto;
     padding: 50px;
 }
@@ -510,10 +509,7 @@ th, td {
     #cover-text {
         float: left;
     }
-    
-    #intro-background {
-        width: 100%;
-    }
+
 
     #introduction {
         padding-bottom: 5%;
