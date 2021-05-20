@@ -577,7 +577,7 @@ th, td {
 
 @media screen and (max-width:770px) {
     #intro-image > img {
-        float: left; 
+        display: none;
     }
 
     #introduction {
@@ -591,11 +591,6 @@ th, td {
 
     #cover-text {
         right: 10px;
-    }
-
-    #intro-image > img {
-        display: inline-flex;
-        height: 150px;
     }
 
     #menu li {
@@ -632,10 +627,6 @@ th, td {
         padding: 5px;
         margin: 0px;
 
-    }
-
-    #intro-image > img {
-        display: none;
     }
 
     #social-yoga {
