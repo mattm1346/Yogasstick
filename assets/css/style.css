@@ -301,7 +301,6 @@ form > h2 {
 }
 
 #social-yoga {
-    width: 300px;
     height: 450px;
     border-radius: 5px;
     margin: 50px;
@@ -547,7 +546,7 @@ th, td {
     }
 
     #social-yoga {
-        margin: 50px 10px 20px 10px;
+        height: 250px;
     }
 
     .safety-icons i {
@@ -567,6 +566,12 @@ th, td {
     .technique-wrapper {
         display: grid;
     }
+
+    #menu {
+        letter-spacing: 0px;
+        font-size: 100%;
+    }
+
 
 }
 
@@ -588,12 +593,6 @@ th, td {
         right: 10px;
     }
 
-    #menu {
-        letter-spacing: 0px;
-        font-size: 100%;
-
-    }
-
     #intro-image > img {
         display: inline-flex;
         height: 150px;
@@ -603,6 +602,14 @@ th, td {
         padding: 5%;
         margin: 0px;
 
+    }
+
+    #book-button {
+        font-size: 100%;
+    }
+
+    form > h2 {
+        font-size: 100%;
     }
 
 }
@@ -628,6 +635,10 @@ th, td {
     }
 
     #intro-image > img {
+        display: none;
+    }
+
+    #social-yoga {
         display: none;
     }
 
