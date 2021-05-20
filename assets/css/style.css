@@ -576,7 +576,7 @@ th, td {
     }
 
     #introduction {
-        width: 350px;
+        width: 100%;
         padding-bottom: 0;
     }
 
@@ -595,7 +595,8 @@ th, td {
     }
 
     #intro-image > img {
-        display: none;
+        display: inline-flex;
+        height: 150px;
     }
 
     #menu li {
@@ -624,6 +625,10 @@ th, td {
         padding: 5px;
         margin: 0px;
 
+    }
+
+    #intro-image > img {
+        display: none;
     }
 
 }
