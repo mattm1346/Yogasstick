@@ -60,9 +60,8 @@ header {
 }
 
 #menu li {
-    margin: 1%;
-    padding: 5%;
     list-style-type: none;
+    margin-right: 4rem;
 
 }
 
