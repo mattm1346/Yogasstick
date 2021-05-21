@@ -1,10 +1,10 @@
-#YOGASSTICK, Yoga for Beginners
+# YOGASSTICK, Yoga for Beginners
 
 This is a yoga website designed to help beginners get started with yoga. Included are some beginner techniques for users to either get started on their own at home, or to have a basic understanding of what they will learn in the class should they decide to book.
 
 The website can be used on a desktop computer, laptop computer and mobile phone. Providing great user experience at home or on the move.
 
-##User Experience
+## User Experience
 
 **Target audience**
 
@@ -16,7 +16,7 @@ Beginners to yoga will want to learn the techniques to yoga which Yogasstick has
 
 All users will want to practice yoga in a safe environment. Yogasstick therefore offers the opportunity to practice yoga in their home via the techniques page. Should users wish to book a class, there is a capacity limit which is displayed on the bookings page. This is to ensure the safety of all members by allowing everyone to social distance while the covid-19 pandemic continues.
 
-##User Stories
+## User Stories
 
 1. As a novice to computers, I want the easiest way to get around the website so I am not wasting my time and getting lost.
 End user goal: Navigate around the website. End business goal: Keep users using website and not leaving in frustration. Acceptance criteria: Create Navigation bar with links to all pages and highlight to inform what page user is on.
@@ -29,7 +29,7 @@ End user goal: Locate the studio. End business goal: Get users in the studio. Ac
 
 4. As a parent I have limited free time, so when I go to the class I want to do yoga and not be turned away due to capacity. I want the ability to book classes. End user goal: Book classes. End business goal: Get users to book classes. Acceptance criteria: Create form on 'details' page with ability to book classes by name to reserve place.
 
-##Wireframes
+## Wireframes
 
 Using the software, 'Balsamiq Wireframes' I created a very basic structure to how I initially wanted Yogasstick to look.
 
@@ -45,7 +45,7 @@ I originally called the 'Schedule' page the 'Tips' page. With the 'Tips' page I 
 
 The 'Booking' page started as the 'Contact' page and included a class timesheet of the classes and the ability to book. There's also a map embeded to allow for the user to locate the studio where classes are held.
 
-##Features
+## Features
 
 **Homepage (Index.html)**
 
@@ -135,11 +135,11 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 -How does product look/change with different screen sizes?
 
-##Deployment
+## Deployment
 
 -Process went through to deploy webpage to GitHub
 
-##Credits
+## Credits
 
 -Content
 -Media
