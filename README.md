@@ -140,7 +140,9 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 ## Deployment
 
--Process went through to deploy webpage to GitHub
+Yogasstick has been successfully deployed on GitHub and a live link can be found here: https://mattm1346.github.io/Yogasstick/
+
+To deploy, I went to 'Yogasstick/settings/pages' and selected the 'master' branch. Yogasstick was then saved and a notification told me that deployment was successful.
 
 ## Credits
 
