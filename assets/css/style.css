@@ -54,14 +54,16 @@ header {
     font-size: 160%;
     height: 50px;
     text-align: center;   
-    padding-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 }
 
 #menu li {
     margin: 1%;
     padding: 5%;
     list-style-type: none;
-    display: inline;
 
 }
 
@@ -120,6 +122,10 @@ header {
 #intro-background {
     margin: 0 auto;
     padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 #intro-outer {
@@ -496,7 +502,8 @@ th, td {
     }
 
     #menu li {
-        padding: 50px;
+        padding: 20px;
+        list-style-type: none;
 
     }
 
@@ -631,6 +638,14 @@ th, td {
 
     #social-yoga {
         display: none;
+    }
+
+    #logo {
+        font-size: 2rem;
+    }
+
+    #title {
+        font-size: 1rem;
     }
 
 }
