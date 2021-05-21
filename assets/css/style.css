@@ -425,6 +425,10 @@ th, td {
 #technique-outer {
     width: 100%;
     padding: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 .poses-title {
@@ -436,16 +440,17 @@ th, td {
 .techniques {
     border: 2px solid #81c784;
     border-radius: 5px;
-    margin: 0 auto 50px;
     padding: 30px;
     width: 70%;
     background-color: #fafafa;
     color: #49599a;
+    margin-bottom: 50px;
 }
 
 #techniques-header {
-    margin: 50px 0 20px 15%;
     color: #49599a;
+    font-size: 2rem;
+    margin-bottom: 30px;
 }
 
 .techniques > h2 {
@@ -603,7 +608,7 @@ th, td {
     }
 
     #menu li {
-        padding: 5%;
+        padding: 20px;
         margin: 0px;
 
     }
@@ -620,8 +625,8 @@ th, td {
 
 @media screen and (max-width: 500px) {
     #technique-images-wide {
-        height: 8em;
-        width: 10em;
+        height: 2rem;
+        width: 3rem;
     }
 
     #intro-background {
