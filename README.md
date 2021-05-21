@@ -75,16 +75,19 @@ On each page, there is a navigation bar with links to each page to allow for eas
 
 **Footer**
 
-On each page, there is a footer with icons from Font Awesome that are linked to their corresponding website (Facebook, Twitter, Instagram). There is also an address of the studio and the yogasstick email address.
+On each page, there is a footer with icons from Font Awesome that are linked to their corresponding website (Facebook, Twitter, Instagram, Youtube, Pinterest). There is also an address of the studio and the yogasstick email address.
 
 ![Footer](assets/screenshots/footer.jpg.png)
 
 -Discuss any plans for some features wanted to add in the future
 
--zoom class
--form crosses out times full up
--technique video/before after image
--teacher bio
+**Future Updates**
+
+1. *Zoom class*: Due to the pandemic, there are limited spaces available in the class and some users may be shielding at home. It would be wise to add a video element that connects to a live zoom feed that is held during some of the classes. This would enable users who could not book a place in the class to still practice yoga taught by an instructor from the safety of their homes.
+
+2. *Class Booked*: If a class is at maximum capacity, currently there is no way of telling users that a class is booked out. This counter-affects the user story #4 (The Parent) who has limited time and will not be content arriving at the studio to be turned away. It is therefore needed to add an aspect of booking a class that is full to be unavailable. Such as not an option on the dropdown selector in the details form.
+
+3. *Clearer Technique Image/ Video*: In the techniques page, the images that accompany the text only show the end technique. It could be clearer by either adding a video of the technique or adding a before image. For example, the 'sphinx' position says to 'lie on your stomach' which could be the starting image and followed by the end position.
 
 **Technology Used**
 
