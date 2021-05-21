@@ -58,7 +58,6 @@ header {
     align-items: center;
     justify-content: center;
 }
-}
 
 #menu li {
     margin: 1%;
@@ -199,8 +198,12 @@ header {
 
 /* footer */
 
-.footer-background {
+footer {
     background-color: #49599a;
+}
+
+.footer-background {
+    padding: 16px;
 }
 
 .social-networks {
