@@ -289,9 +289,9 @@ form > h2 {
 #book-button {
     margin-top: 20px;
     padding: 20px 30px;
-    background-color: #81c784;
+    background-color: #95E699;
     color: #49599a;
-    border: 2px solid #81c784;
+    border: 2px solid #95E699;
     border-radius: 2px;
     font-family: Montserrat, sans-serif;
     font-size: 140%;
@@ -300,7 +300,7 @@ form > h2 {
 }
 
 #book-button:hover {
-    background-color: #95E699;
+    background-color: #81c784;
     color: #49599a;
     border: 2px solid #81c784;
     border-radius: 2px;
@@ -383,17 +383,17 @@ th, td {
 }
 
 #book{
-    background-color: #81c784;
+    background-color: #95E699;
     color: #49599a;
     border-radius: 5px;
     text-decoration: none;
     padding: 20px;
-    border: 2px solid #81c784;
+    border: 2px solid #95E699;
     margin: 10px;
 }
 
 #book:hover {
-    background-color: #95E699;
+    background-color: #81c784;
     color: #49599a;
     border: 2px solid #81c784;
 }
