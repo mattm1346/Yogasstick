@@ -51,6 +51,7 @@ header {
     font-size: 1.5rem;
     padding: 20px;
     text-align: center;
+    color: #49599a;
 }
 
 /* nav bar */
@@ -407,14 +408,6 @@ th, td {
 
 /* techniques */
 
-.technique-images {
-    height: 200px;
-    width: 150px;
-    float: left;
-    margin: 20px;
-    border-radius: 5px;
-}
-
 .technique-images-wide {
     height: 200px;
     width: 300px;
@@ -430,7 +423,6 @@ th, td {
 }
 
 #technique-outer {
-    width: 100%;
     padding: 40px;
     display: flex;
     justify-content: center;
@@ -447,8 +439,7 @@ th, td {
 .techniques {
     border: 2px solid #81c784;
     border-radius: 5px;
-    padding: 30px;
-    width: 70%;
+    padding: 50px;
     background-color: #fafafa;
     color: #49599a;
     margin-bottom: 50px;
@@ -472,7 +463,6 @@ th, td {
 
 #music {
     text-align: center;
-    padding: 0 50px 20px 50px;
 }
 
 .music {
