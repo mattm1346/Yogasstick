@@ -276,13 +276,14 @@ form > h2 {
 }
 
 .dropdown {
-    width: 30%;
+    width: 20%;
     height: 25px;
     color: #49599a;
     border: 1px solid #49599a;
     border-radius: 2px;
     margin-top: 10px;
     padding: 4px;
+    margin-bottom: 20px;
 }
 
 .input-text:hover {
@@ -294,7 +295,6 @@ form > h2 {
 }
 
 #book-button {
-    margin-top: 20px;
     padding: 20px 30px;
     background-color: #95E699;
     color: #49599a;
@@ -335,8 +335,8 @@ form > h2 {
     background-color: #fafafa;
     margin: 10px;
     margin-bottom: 50px;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     color: #49599a;
     display: flex;
     align-items: center;
@@ -344,6 +344,7 @@ form > h2 {
     flex-direction: column;
     border: 2px solid #81c784;
     border-radius: 5px;
+    padding: 1rem;
 }
 
 .safety-icons i {
