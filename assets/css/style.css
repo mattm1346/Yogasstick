@@ -47,6 +47,12 @@ header {
 
 }
 
+.subheader {
+    font-size: 1.5rem;
+    padding: 20px;
+    text-align: center;
+}
+
 /* nav bar */
 
 #menu {
@@ -390,6 +396,7 @@ th, td {
     padding: 20px;
     border: 2px solid #95E699;
     margin: 10px;
+    font-size: 1.5rem;
 }
 
 #book:hover {
