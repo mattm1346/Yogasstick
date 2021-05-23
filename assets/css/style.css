@@ -11,8 +11,7 @@ body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
     color: #fafafa;
-    background-color: #aab6fe;
-        
+    background-color: #aab6fe;  
 }
 
 h1 , h2 {
@@ -21,7 +20,6 @@ h1 , h2 {
     text-transform: uppercase;
     color: #fafafa;
     font-weight: bold;
-    
 }
 
 p {
@@ -32,19 +30,16 @@ p {
 header {
     background-color: #49599a;
     width: 100%;
-
 }
 
 #logo {
     font-size: 270%;
     text-align: center;
-    
 }
 
 #title {
     text-align: center;
     font-size: 160%;
-
 }
 
 .subheader {
@@ -69,7 +64,6 @@ header {
 #menu li {
     list-style-type: none;
     margin-right: 4rem;
-
 }
 
 #menu a {
@@ -152,7 +146,6 @@ header {
     border: 2px solid #81c784;
     border-radius: 5px;
     background-color: #fafafa;
-    
 }
 
 #intro-bottom {
@@ -168,7 +161,6 @@ header {
     height: 300px;
     float: right;
     margin: 50px;
-    
 }
 
 #techniques {
@@ -193,7 +185,6 @@ header {
     margin: 0 auto;
     border: 2px solid #81c784;
     border-radius: 5px;
-    
 }
 
 #map {
@@ -214,7 +205,6 @@ footer {
 
 .social-networks {
     text-align: center;
-
 }
 
 .social-networks > li {
@@ -236,8 +226,8 @@ footer {
     width: 400px;
     margin: 0 auto;
     color: #fafafa;
-
 }
+
 /* form */
 
 #form-outer {
@@ -303,7 +293,6 @@ form > h2 {
     font-family: Montserrat, sans-serif;
     font-size: 140%;
     width: 100%;
-
 }
 
 #book-button:hover {
@@ -312,14 +301,12 @@ form > h2 {
     border: 2px solid #81c784;
     border-radius: 2px;
     cursor: pointer;
-
 }
 
 #social-yoga {
     height: 450px;
     border-radius: 5px;
     margin: 50px;
-
 }
 
 .safety-icons {
@@ -363,7 +350,6 @@ form > h2 {
     font-family: Montserrat, sans-serif;
     padding: 4px;
     overflow: auto;
-
 }
 
 table {
@@ -387,7 +373,6 @@ th, td {
 
 #timesheet-outer > div {
     text-align: center;
-    
 }
 
 #book{
@@ -479,7 +464,10 @@ th, td {
     justify-content: center;
 }
 
+/* For media screen width 1440 and below*/
+
 @media screen and (max-width:1440px) {
+   
     #hero-outer {
         height: 400px;
         width: 100%;
@@ -488,7 +476,6 @@ th, td {
     #cover-text {
         right: 200px;
     }
-
 }
 
 @media screen and (max-width:1200px) {
@@ -509,7 +496,6 @@ th, td {
     #menu li {
         padding: 20px;
         list-style-type: none;
-
     }
 
     #hero-outer {
@@ -520,7 +506,6 @@ th, td {
     #cover-text {
         float: left;
     }
-
 
     #introduction {
         padding-bottom: 5%;
@@ -584,7 +569,6 @@ th, td {
         font-size: 100%;
     }
 
-
 }
 
 @media screen and (max-width:770px) {
@@ -608,7 +592,6 @@ th, td {
     #menu li {
         padding: 20px;
         margin: 0px;
-
     }
 
     #book-button {
@@ -638,7 +621,6 @@ th, td {
     #menu li {
         padding: 5px;
         margin: 0px;
-
     }
 
     #social-yoga {
