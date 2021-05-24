@@ -170,13 +170,13 @@ The website has a signup form for the user to book their place at a class by nam
 
 **Different Devices**
 
-![Homepage Devices](assets/screenshots/devices/homepage multi device.png)
+![Homepage Devices](assets/screenshots/devices/homepage%20multi%20device.png)
 
-![Techniques Devices](assets/screenshots/devices/techniques multi device.png)
+![Techniques Devices](assets/screenshots/devices/techniques%20multi%20device.png)
 
-![Schedule Devices](assets/screenshots/devices/schedule multi device.png)
+![Schedule Devices](assets/screenshots/devices/schedule%20multi%20device.png)
 
-![Booking Devices](assets/screenshots/devices/details multi device.png)
+![Booking Devices](assets/screenshots/devices/details%20multi%20device.png)
 
 ## Deployment
 
