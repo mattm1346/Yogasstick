@@ -201,6 +201,8 @@ The website has a signup form for the user to book their place at a class by nam
 
 ![Booking Devices](assets/screenshots/devices/details%20multi%20device.png)
 
+Screenshots taken from the website http://techsini.com/multi-mockup/index.php.
+
 ## Deployment
 
 Yogasstick has been successfully deployed on GitHub and a live link can be found here: https://mattm1346.github.io/Yogasstick/
