@@ -95,6 +95,12 @@ In the schedule page, there is a table element with a list of the available time
 
 ![Timesheet](assets/screenshots/timetable.png)
 
+**Map**
+
+Also on the schedule page, there is an interactive map from google maps (https://www.google.com/maps) to help the user locate the studio.
+
+![Map](assets/screenshots/map.png)
+
 **Future Updates**
 
 1. *Zoom class*: Due to the pandemic, there are limited spaces available in the class and some users may be shielding at home. It would be wise to add a video element that connects to a live zoom feed that is held during some of the classes. This would enable users who could not book a place in the class to still practice yoga taught by an instructor from the safety of their homes.
