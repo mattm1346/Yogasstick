@@ -117,6 +117,11 @@ On the details page, there is a signup form for the user to book a place at a cl
 
 **Technology Used**
 
+* *Google Maps*
+...Google maps has the feature where you can copy a html code and paste into your own html.
+
+![Google Maps Code](assets/screenshots/map-code.png)
+
 -Reference to outside sources used (language, frameworks, libraries)
 -Include short explanation why each tool was used
 
