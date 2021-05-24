@@ -101,6 +101,12 @@ Also on the schedule page, there is an interactive map from google maps (https:/
 
 ![Map](assets/screenshots/map.png)
 
+**Form**
+
+On the details page, there is a signup form for the user to book a place at a class.
+
+![Signup Form](assets/screenshots/form.png)
+
 **Future Updates**
 
 1. *Zoom class*: Due to the pandemic, there are limited spaces available in the class and some users may be shielding at home. It would be wise to add a video element that connects to a live zoom feed that is held during some of the classes. This would enable users who could not book a place in the class to still practice yoga taught by an instructor from the safety of their homes.
