@@ -85,9 +85,15 @@ On each page, there is a footer with icons from Font Awesome that are linked to 
 
 **Audio**
 
-The techniques page has three audio files with the ability to be played by the user.
+The techniques page has three audio files from Soundbar (https://app.soundstripe.com/) with the ability to be played by the user.
 
 ![Audio](assets/screenshots/audio.png)
+
+**Timesheet**
+
+In the schedule page, there is a table element with a list of the available times that a user can book a class at the studio.
+
+![Timesheet](assets/screenshots/timetable.png)
 
 **Future Updates**
 
