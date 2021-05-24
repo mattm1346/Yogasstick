@@ -160,9 +160,23 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 [Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_details(19.05.21).jpg.png
 
--Go into user stories, making sure end goal is achieved easily
+Each link within the website has been tested to work with no errors so the end goal for user #1 (The Novice) has been reached.
 
--How does product look/change with different screen sizes?
+The techniques page has clear instructions for learning yoga at home so the end goal for user #2 (The Beginner) has been reached. But could be improved with the future update of adding zoom classes.
+
+The address of the yoga studio is visible on the footer of each page and a map is embeded on the schedule page so the end goal of user #3 (Terrible with Directions) has been reached.
+
+The website has a signup form for the user to book their place at a class by name and recieve an email confirmation. So the end goal for user #4 (The Parent) has been reached.
+
+**Different Devices**
+
+![Homepage Devices](assets/screenshots/devices/homepage multi device.png)
+
+![Techniques Devices](assets/screenshots/devices/techniques multi device.png)
+
+![Schedule Devices](assets/screenshots/devices/schedule multi device.png)
+
+![Booking Devices](assets/screenshots/devices/details multi device.png)
 
 ## Deployment
 
