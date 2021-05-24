@@ -83,6 +83,12 @@ On each page, there is a footer with icons from Font Awesome that are linked to 
 
 ![Footer](assets/screenshots/footer.png)
 
+**Audio**
+
+The techniques page has three audio files with the ability to be played by the user.
+
+![Audio](assets/screenshots/audio.png)
+
 **Future Updates**
 
 1. *Zoom class*: Due to the pandemic, there are limited spaces available in the class and some users may be shielding at home. It would be wise to add a video element that connects to a live zoom feed that is held during some of the classes. This would enable users who could not book a place in the class to still practice yoga taught by an instructor from the safety of their homes.
