@@ -31,11 +31,15 @@ End user goal: Locate the studio. End business goal: Get users in the studio. Ac
 
 ## Wireframes
 
-Using the software, 'Balsamiq Wireframes' I created a very basic structure to how I initially wanted Yogasstick to look.
+Using the software, 'Balsamiq Wireframes' I created a very basic structure to plan how I initially wanted Yogasstick to look.
 
 ![index](https://github.com/mattm1346/Yogasstick/blob/master/assets/screenshots/wireframes/wireframe_index.png)
 
+The homepage was always planned to be welcoming, with a big greeting and hero image of yoga. In respect to the user story #1 (The Novice) the homepage has clear links via the nav bar and in the intro-text to help with navigation.
+
 ![techniques](https://github.com/mattm1346/Yogasstick/blob/master/assets/screenshots/wireframes/wireframe_techniques.png)
+
+I wanted the techniques page to be clear and simple. I didn't want to overcrowd the page with text and images. Therefore it has some simple techniques that a beginner to yoga can do with an image and short, clear instructions to follow.
 
 ![tips](https://github.com/mattm1346/Yogasstick/blob/master/assets/screenshots/wireframes/wireframe_tips.png)
 
@@ -147,6 +151,9 @@ To deploy, I went to 'Yogasstick/settings/pages' and selected the 'master' branc
 ## Credits
 
 -Content
+https://www.orangeyoga.co.uk/
+https://www.paperdressyoga.co.uk/
+https://yogainternational.com/
 -Media
 https://www.pexels.com/
 -Acknowledgments
