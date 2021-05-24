@@ -129,7 +129,9 @@ I downloaded three mp3 files from Soundstripe (https://app.soundstripe.com/) and
 From the Love-Running project that I worked on whilst following videos from The Code Institute, I copied code from my repository (https://mattm1346.github.io/Love-Running/) that I used as a template for the **navigation-bar** and **footer social icons**.
 
 * *Pexels*
-All of the images are from Pexels (https://www.pexels.com/). They provided very high quality images that were relevant to the site.
+All of the images are from Pexels (https://www.pexels.com/). They provided very high quality images that were relevant to the site. I selected the image I wanted and downloaded from the site itself then saved the image to my Gitpod folder.
+
+![Pexels download button](assets/screenshots/pexels.png)
 
 -Reference to outside sources used (language, frameworks, libraries)
 -Include short explanation why each tool was used
