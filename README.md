@@ -118,23 +118,30 @@ On the details page, there is a signup form for the user to book a place at a cl
 **Technology Used**
 
 *Google Maps*
+
 Google maps has the feature where you can copy a html code and paste into your own html.
 
 ![Google Maps Code](assets/screenshots/map-code.png)
 
 *Soundstripe*
+
 I downloaded three mp3 files from Soundstripe (https://app.soundstripe.com/) and embeded them as audio into the code.
 
 *Love-Running*
+
 From the Love-Running project that I worked on whilst following videos from The Code Institute, I copied code from my repository (https://mattm1346.github.io/Love-Running/) that I used as a template for the **navigation-bar** and **footer social icons**.
 
 *Pexels*
+
 All of the images are from Pexels (https://www.pexels.com/). They provided very high quality images that were relevant to the site. I selected the image I wanted and downloaded from the site itself then saved the image to my Gitpod folder.
 
 ![Pexels download button](assets/screenshots/pexels.png)
 
--Reference to outside sources used (language, frameworks, libraries)
--Include short explanation why each tool was used
+*Font Awesome*
+
+I used icons from Font Awesome (https://fontawesome.com/) and copied the link it provided to make the website more appealing to the user.
+
+![Font Awesome Code Download](assets/screenshots/fontawesome.png)
 
 **Testing**
 
