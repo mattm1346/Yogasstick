@@ -147,45 +147,25 @@ I used icons from Font Awesome (https://fontawesome.com/) and copied the link it
 
 Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
-*May 17 2021:* The 'index.html' page was successful and resulted in no errors.
+**May 17 2021:** The 'index.html' page was successful and resulted in no errors.
 
-[Index W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_homepage.jpg.png
+**May 17 2021:** The 'techniques.html' page was unsuccessful and resulted in 22 errors.
 
-*May 17 2021:* The 'techniques.html' page was unsuccessful and resulted in 22 errors.
+**May 17 2021:** The 'techniques.html' page was successful and resulted in no errors.
 
-[Techniques W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_techniques.jpg.png
+**May 17 2021:** The 'schedule.html' page was successful and resulted in no errors.
 
-*May 17 2021:* The 'techniques.html' page was successful and resulted in no errors.
+**May 17 2021:** The 'details.html' page was unsuccessful and resulted in 7 errors.
 
-[Techniques W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_techniques_FIXED.jpg.png
+**May 17 2021:** The 'details.html' page was successful and resulted in 0 errors.
 
-*May 17 2021:* The 'schedule.html' page was successful and resulted in no errors.
+**May 19 2021:** Used the website (https://webformatter.com/) to correctly change the format of all html pages.
 
-[Schedule W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_schedule.jpg.png
+**May 19 2021:** Ran each page through W3C validator to check that changing the format caused no errors.
 
-*May 17 2021:* The 'details.html' page was unsuccessful and resulted in 7 errors.
+**May 25 2021:** Ran each html page through W3C validator and found no errors.
 
-[Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_details.jpg.png
-
-*May 17 2021:* The 'details.html' page was successful and resulted in 0 errors.
-
-[Details W3C FIXED] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/17.05.21/testing_details_FIXED.jpg.png
-
-*May 19 2021:* Used the website (https://webformatter.com/) to correctly change the format of all html pages.
-
-*May 19 2021:* Ran each page through W3C validator to check that changing the format caused no errors.
-
-[Index W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_homepage(19.05.21).jpg.png
-
-[Techniques W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_techniques(19.05.21).jpg.png
-
-[Schedule W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_schedule(19.05.21).jpg.png
-
-[Details W3C] https://github.com/mattm1346/Project_1/blob/master/assets/screenshots/testing/19.05.21/testing_details(19.05.21).jpg.png
-
-*May 25 2021:* Ran each html page through W3C validator and found no errors.
-
-*May 25 2021:* Ran css page through W3C validator and found no errors.
+**May 25 2021:** Ran css page through W3C validator and found no errors.
 
 Each link within the website has been tested to work with no errors so the end goal for user #1 (The Novice) has been reached.
 
