@@ -165,7 +165,17 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 **May 25 2021:** Ran each html page through W3C validator and found no errors.
 
+![Final test of index page through W3C](assets/screenshots/testing/homepage-final-test.png)
+
+![Final test of techniques page through W3C](assets/screenshots/testing/techniques-final-test.png)
+
+![Final test of schedule page through W3C](assets/screenshots/testing/schedule-final-test.png)
+
+![Final test of details page through W3C](assets/screenshots/testing/details-final-test.png)
+
 **May 25 2021:** Ran css page through W3C validator and found no errors.
+
+![Final test of css page through W3C](assets/screenshots/testing/css-final-test.png)
 
 Each link within the website has been tested to work with no errors so the end goal for user #1 (The Novice) has been reached.
 
