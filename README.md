@@ -63,13 +63,13 @@ The techniques page is where the main information of yoga is held. There are fiv
 
 The schedule page is all about getting the user to book a class. Here we start with a full list of times that the studio will be holding classes for yoga. Under this, there is a disclaimer notifying the user that class availability is limited due to the coronavirus pandemic (although this website is completely fiction, I thought it would be a good idea to show how it can adapt to changing social times).
 
-There is also a map embeded from google maps (https://www.google.co.uk/maps/). The studio location is shown on the map which is interactive. This is to help users find the location of the studio.
+There is also a map embeded from [Google maps](https://www.google.co.uk/maps/). The studio location is shown on the map which is interactive. This is to help users find the location of the studio.
 
 **Booking (Details.html)**
 
 The booking page is where the user can book their class. It has a functioning form that requires the user's; first name, last name, email address and what time and date they would like to book. 
 
-Under the form, there are three icons from Font Awesome (https://fontawesome.com/) reminding the user to stay safe. In the coronavirus pandemic, the three main rules to stay safe were to: wash hands, wear a face mask, and keep a two meter distance from others. The icons on the website include a short description to remind the user to keep themselves and each other safe.
+Under the form, there are three icons from [Font Awesome](https://fontawesome.com/) reminding the user to stay safe. In the coronavirus pandemic, the three main rules to stay safe were to: wash hands, wear a face mask, and keep a two meter distance from others. The icons on the website include a short description to remind the user to keep themselves and each other safe.
 
 **Nav-bar**
 
@@ -85,7 +85,7 @@ On each page, there is a footer with icons from Font Awesome that are linked to 
 
 **Audio**
 
-The techniques page has three audio files from Soundbar (https://app.soundstripe.com/) with the ability to be played by the user.
+The techniques page has three audio files from [Soundstripe](https://app.soundstripe.com/) with the ability to be played by the user.
 
 ![Audio](assets/screenshots/audio.png)
 
@@ -97,7 +97,7 @@ In the schedule page, there is a table element with a list of the available time
 
 **Map**
 
-Also on the schedule page, there is an interactive map from google maps (https://www.google.com/maps) to help the user locate the studio.
+Also on the schedule page, there is an interactive map from [Google Maps](https://www.google.com/maps) to help the user locate the studio.
 
 ![Map](assets/screenshots/map.png)
 
@@ -125,27 +125,27 @@ Google maps has the feature where you can copy a html code and paste into your o
 
 *Soundstripe*
 
-I downloaded three mp3 files from Soundstripe (https://app.soundstripe.com/) and embeded them as audio into the code.
+I downloaded three mp3 files from [Soundstripe](https://app.soundstripe.com/) and embeded them as audio into the code.
 
 *Love-Running*
 
-From the Love-Running project that I worked on whilst following videos from The Code Institute, I copied code from my repository (https://mattm1346.github.io/Love-Running/) that I used as a template for the **navigation-bar** and **footer social icons**.
+From the Love-Running project that I worked on whilst following videos from The Code Institute, I copied code from my [repository](https://mattm1346.github.io/Love-Running/) that I used as a template for the **navigation-bar** and **footer social icons**.
 
 *Pexels*
 
-All of the images are from Pexels (https://www.pexels.com/). They provided very high quality images that were relevant to the site. I selected the image I wanted and downloaded from the site itself then saved the image to my Gitpod folder.
+All of the images are from [Pexels](https://www.pexels.com/). They provided very high quality images that were relevant to the site. I selected the image I wanted and downloaded from the site itself then saved the image to my Gitpod folder.
 
 ![Pexels download button](assets/screenshots/pexels.png)
 
 *Font Awesome*
 
-I used icons from Font Awesome (https://fontawesome.com/) and copied the link it provided to make the website more appealing to the user.
+I used icons from [Font Awesome](https://fontawesome.com/) and copied the link it provided to make the website more appealing to the user.
 
 ![Font Awesome Code Download](assets/screenshots/fontawesome.png)
 
 **Testing**
 
-Using W3C validator (https://validator.w3.org/) I ran each html page through.
+Using [W3C](https://validator.w3.org/) I ran each html page through.
 
 **May 17 2021:** The 'index.html' page was successful and resulted in no errors.
 
@@ -159,7 +159,7 @@ Using W3C validator (https://validator.w3.org/) I ran each html page through.
 
 **May 17 2021:** The 'details.html' page was successful and resulted in 0 errors.
 
-**May 19 2021:** Used the website (https://webformatter.com/) to correctly change the format of all html pages.
+**May 19 2021:** Used [W3C](https://webformatter.com/) to correctly change the format of all html pages.
 
 **May 19 2021:** Ran each page through W3C validator to check that changing the format caused no errors.
 
@@ -195,13 +195,35 @@ The website has a signup form for the user to book their place at a class by nam
 
 ![Booking Devices](assets/screenshots/devices/details%20multi%20device.png)
 
-Screenshots taken from the website http://techsini.com/multi-mockup/index.php.
+Screenshots taken from [techsini](http://techsini.com/multi-mockup/index.php).
 
 ## Deployment
 
 Yogasstick has been successfully deployed on GitHub and a live link can be found here: https://mattm1346.github.io/Yogasstick/
 
-To deploy, I went to 'Yogasstick/settings/pages' and selected the 'master' branch. Yogasstick was then saved and a notification told me that deployment was successful.
+Yogasstick was deployed using the following steps:
+
+1. Login to GitHub and click on [My Repositories](https://github.com/?tab=repositories)
+
+2. Open Yogasstick
+
+3. Go to [settings](https://github.com/mattm1346/Yogasstick/settings)
+
+4. Scroll down and click on [pages](https://github.com/mattm1346/Yogasstick/settings/pages)
+
+5. Locate 'Source' and change the dropdown from 'None' to 'Master Branch'
+
+6. The page should refresh and the link will be deployed.
+
+**Forking**
+
+To Fork Yogasstick follow these steps:
+
+1. Login to GitHub and locate [Yogasstick](https://github.com/mattm1346/Yogasstick)
+
+2. Click on the 'Fork' icon (above settings)
+
+3. It should create a copy of the original Yogasstick
 
 ## Credits
 
