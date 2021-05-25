@@ -211,10 +211,27 @@ To deploy, I went to 'Yogasstick/settings/pages' and selected the 'master' branc
 
 ## Credits
 
--Content
+*Content*
+
+After designing the initial wireframe of Yogasstick, I found these websites which all have the option to book a class to practice yoga in a studio. These helped to produce the final product with the implement of the booking page and schedule page.
 https://www.orangeyoga.co.uk/
 https://www.paperdressyoga.co.uk/
+https://www.yogam.co.uk/
+
 https://yogainternational.com/
--Media
+Yogainternational.com was one of the only websites I found that provided information on how to perform yoga techniques through it's use of recorded classes.
+
+https://yogaphysics.com/
+https://dagmarspremberg.com/
+The main focus of these websites was to sell merchandise such as yoga books and audio podcasts. They did not seem very useful as a website that teaches yoga but more as a website that promotes material that teaches yoga.
+
+*Media*
+
 https://www.pexels.com/
--Acknowledgments
+https://app.soundstripe.com/
+
+
+*Acknowledgments*
+
+https://mattm1346.github.io/Love-Running/
+https://learn.codeinstitute.net/
