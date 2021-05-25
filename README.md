@@ -221,22 +221,21 @@ After designing the initial wireframe of Yogasstick, I found these websites whic
 
 * https://www.yogam.co.uk/
 
+Yogainternational.com was one of the only websites I found that provided information on how to perform yoga techniques through it's use of recorded classes.
+
 * https://yogainternational.com/
 
-Yogainternational.com was one of the only websites I found that provided information on how to perform yoga techniques through it's use of recorded classes.
+The main focus of these websites was to sell merchandise such as yoga books and audio podcasts. They did not seem very useful as a website that teaches yoga but more as a website that promotes material that teaches yoga.
 
 * https://yogaphysics.com/
 
 * https://dagmarspremberg.com/
-
-The main focus of these websites was to sell merchandise such as yoga books and audio podcasts. They did not seem very useful as a website that teaches yoga but more as a website that promotes material that teaches yoga.
 
 *Media*
 
 * https://www.pexels.com/
 
 * https://app.soundstripe.com/
-
 
 *Acknowledgments*
 
